@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hello 👋
 
-I'm Jcheca, a passionate developer who loves to explore new technologies and build innovative projects.
+Je suis Jcheca, un développeur passionné qui aime decouvrir et tester des trucs
 
-- 🔭 I’m currently working on ft_trancendence
+- 🔭 J'ai terminé ft_trancendence et je recherche un stage/alternace en developement de logiciel. 
 
-### Connect with me:
+### Contact:
 
 - [LinkedIn](https://www.linkedin.com/in/jonathan-checa/)
 - [Portfolio](https://jon357.github.io)
@@ -12,8 +12,9 @@ I'm Jcheca, a passionate developer who loves to explore new technologies and bui
 ### GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jon357&show_icons=true&theme=dark)
--->
+
 
 ### Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jon357&layout=compact&theme=dark)
+-->
